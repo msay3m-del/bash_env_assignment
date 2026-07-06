@@ -1,0 +1,8 @@
+name: hello_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.11
+  - r-base=4.4.2
+  - pip=24.3.1
